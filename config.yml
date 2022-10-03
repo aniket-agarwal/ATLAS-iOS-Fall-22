@@ -1,1 +1,8 @@
-personal_project: Amp-d
+name: aniket-agarwal
+
+# Provide the name for all of your other GitHub repos that relate to this class.
+# If I substitute your username and the repo name in a GitHub URL like this:
+#    `https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME`
+# I should find your repository.
+repo_names:
+  - Amp-d
